@@ -1,0 +1,5 @@
+streamlit
+python-docx
+mammoth
+docxcompose
+pytz
